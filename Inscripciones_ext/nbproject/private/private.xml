@@ -3,13 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/Inscripciones_ext/src/editionOfDocuments/ExcelEdition.java</file>
-            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/Inscripciones_ext/src/editionOfDocuments/WordEdition.java</file>
-            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/Inscripciones_ext/src/datos/ConectionToDB.java</file>
-            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/Inscripciones_ext/src/datos/CareerDAO.java</file>
-            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/Inscripciones_ext/src/panels/InscriptionsPanel.java</file>
-            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/Inscripciones_ext/src/datos/StudentDAO.java</file>
-            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/Inscripciones_ext/src/frames/Login.java</file>
+            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/SIGAE/Inscripciones_ext/src/datos/ConectionToDB.java</file>
+            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/SIGAE/Inscripciones_ext/src/panels/ConfigurationPanel.java</file>
+            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/SIGAE/Inscripciones_ext/src/panels/InscriptionsPanel.java</file>
+            <file>file:/C:/Users/Panana/Documents/NetBeansProjects/SIGAE/Inscripciones_ext/src/frames/Login.java</file>
         </group>
     </open-files>
 </project-private>
